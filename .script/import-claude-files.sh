@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# expects the path to copy claude markdown from.
+
 if [[ "$#" -eq 0 ]]; then 
   echo "expects an argument: the path to another project"
   exit
