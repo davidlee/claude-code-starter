@@ -26,6 +26,13 @@ This stuff changes fast, so you may as well benefit from your learning on one pr
 
 Put what you want Claude to read on every boot in `doc/project-overview.md`.
 
+## Justfile
+
+Your preferred language may have its own, but
+[just](https://just.systems/) is a nice runner for any language.
+
+It's got a few useful amenities to get you started. Go ahead and customise or replace it.
+
 ## Credits
 
 Initial kanban .md file stolen and adapted from [someone on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1kj9f7m/sharing_my_kanban_workflow_to_give_clear/).
