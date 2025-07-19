@@ -40,3 +40,12 @@ Initial kanban .md file stolen and adapted from [someone on Reddit](https://www.
 ## Alternatives
 
 [Backlog.md](https://github.com/MrLesk/Backlog.md)
+
+## Cool Tangents: Stuff I Would Have Been Inspired By If I Read It First
+
+Kiro's release was a big hit of confirmation bias, and there's a lot of
+activity around this approach which is worth picking over and pilfering from:
+
+- [kiro in claude code](https://www.reddit.com/r/ClaudeCode/comments/1m3pppk/kiro_spec_development_workflow_in_claude_code/)
+- [kiro prompt](https://gist.github.com/marcelsud/7df7784150e5fb374b2e45f6ababbf0d)
+- [spec driven agentic development](https://github.com/marcelsud/spec-driven-agentic-development)
