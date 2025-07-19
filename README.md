@@ -22,9 +22,9 @@ to incorporate them into another project.
 
 This stuff changes fast, so you may as well benefit from your learning on one project in your others.
 
-## Roadmap
+## Project-Specific Stuff
 
-TODO (or an exercise for the reader): think about how to adapt this to deal with project-specific changes.
+Put what you want Claude to read on every boot in `doc/project-overview.md`.
 
 ## Credits
 
