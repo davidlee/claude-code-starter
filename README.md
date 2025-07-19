@@ -1,2 +1,35 @@
 # claude-code-starter
-opinionated Claude Code starter kit.
+
+An opinionated Claude Code starter kit. Extracted from [vice](https://github.com/davidlee/vice).
+
+Coming soon, maybe: meta-commentary / usage instructions. 
+
+## Sync
+
+if you made some improvements in a project using this starter kit, you can run 
+
+```bash
+.script/import-claude-files.sh your-project-name
+```
+
+to pull them into your fork of this repo, or from your project run
+
+```bash
+.script/import-claude-files.sh path-to-your-fork-of-starter
+```
+
+to incorporate them into another project. 
+
+This stuff changes fast, so you may as well benefit from your learning on one project in your others.
+
+## Roadmap
+
+TODO (or an exercise for the reader): think about how to adapt this to deal with project-specific changes.
+
+## Credits
+
+Initial kanban .md file stolen and adapted from [someone on Reddit](https://www.reddit.com/r/ClaudeCode/comments/1kj9f7m/sharing_my_kanban_workflow_to_give_clear/).
+
+## Alternatives
+
+[Backlog.md](https://github.com/MrLesk/Backlog.md)
