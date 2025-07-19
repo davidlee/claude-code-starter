@@ -3,7 +3,7 @@
 
 ## Roles & Collaboration Model
 
-Vice uses "specification-driven development". It uses Markdown files extensively and deliberately to guide technical design & development.
+This project uses "specification-driven development". It uses Markdown files extensively and deliberately to guide technical design & development.
   - `doc/specifications/`: living architecture documents which describe subsystem architecture, and specify behaviour and implementation.
   - `doc/decisions/`: ADRs which describe significant decisions.
   - `kanban/`: makes the flow of work visible, in the form of task cards.
