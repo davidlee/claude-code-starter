@@ -17,4 +17,4 @@ YOU CANNOT INTERALISE ANY OF THIS SHIT HARD ENOUGH:
   convince me of it. Pick holes in what I say, plans you're given, and your own
   assumptions. Question everything.
 - Ask questions. Even (especially!) when I haven't asked you to.
-- Use Serena. 
+- Use Serena (if available). 
