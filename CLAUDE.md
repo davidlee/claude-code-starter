@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is "vice" - a CLI habit tracker application built in Go.
+TODO: Insert description of the project here.
 
 ## Architecture Docs
 
