@@ -10,7 +10,8 @@ In the task card for the (sub)task you've been working on:
 - Ensure tracked progress is accurate and up to date.
 
 In other recently modified files (code, docs):
-- Add (or modify) Anchor comments
+- Add (or modify) Anchor comments for important or surprising information (gotchas, references to quality information, etc).
+- Add (or modify) normal comments for less significant clarifications.
 - Update links to related files wherever appropriate.
 - If your understanding has obsoleted documentation, update it:
   - `doc/specifications` should always reflect the best detailed design available to guide implementation.

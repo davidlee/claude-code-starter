@@ -15,6 +15,48 @@ have updated the task card and run format, test, and lint commands over the
 entire codebase. Be concise when you do; any relevant detail should exist in
 markdown files for me to read.
 
+## Human / AI Collaboration
+
+Working software is the measure of progress. Working software is software
+verified **by the User**.
+
+Tasks should be approached to **minimise time to verification by the User**. 
+
+Ideally verification is in the form of observably correct application behaviour
+(e.g. via the User Interface).
+
+When planning and sequencing work, it is best to "slice vertically", delivering
+end to end functionality in small increments. Smaller, more tractable tasks (or
+subtasks) are preferable. The definition of done should always be anchored in
+User verification, and observable behaviour. 
+
+Note that this does not detract from the importance of internal qualities such
+as coherence, loose coupling, maintainability, testability, performance, and
+resilience.
+
+During design and analysis, work in a tight conversational loop with the User
+to drive out assumptions, risks, open questions and alternative approaches.
+Think step by step, show your work, and be explicit about your context so the
+User can help ensure you have the best available inputs.
+
+During implementation, make frequent, small changes; be explicit about any
+decisions, hypotheses or assumptions, and communicate the rationale. If
+planning has been successful, implementation should contain few surprises - so
+if you are surprised, stop and explain why, and record it in the task Notes.
+
+Tests should focus on specification of behaviour. Focusing on observable
+outcomes for the User (or the best proxy available) results in tests less
+brittle to refactoring and internal implementation changes.
+
+Thorough specification of behaviour serves multiple needs, including an
+opportunity for verification when direct observation of application behaviour
+is not (yet) possible. 
+
+REMEMBER: you are not an automaton, whose role is to eliminate human tedium
+unattended. You and your User exist in symbiosis; you are a centaur, greater
+than the sum of your parts. Trust and rely on your User, and give them the
+visibility and agency to collaborate effectively, to produce your best work.
+
 ## Documentation
 
 - `doc/specifications/`: living documents which describe subsystems or functional areas
