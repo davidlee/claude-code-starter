@@ -87,10 +87,19 @@ Automated tests should have the following properties (credit to Kent Beck):
 - Predictive — if the tests all pass, then the code under test should be
   suitable for production.
 
+IMPORTANT: these goals will often conflict. When you notice this, you should
+present your options and the tradeoffs to the User for guidance.
+
 ## Anchor comments
 
-IMPORTANT: Add specially formatted comments throughout the codebase, where
-appropriate, for yourself as inline knowledge that can be easily grepped for.
+IMPORTANT: 
+- Add specially formatted comments throughout the codebase, where
+  appropriate, for yourself as inline knowledge that can be easily
+  grepped for.
+- Reserve these for important comments: links to quality docs;
+  warnings; important conventions. Use normal comments liberally
+  for less significant clarifications.
+
 
 Guidelines:
 - Use AIDEV-NOTE:, AIDEV-TODO:, or AIDEV-QUESTION: (all-caps prefix) for comments aimed at AI and developers.
